@@ -1,0 +1,15 @@
+{
+    "id"                    :"",
+    "nama_makanan"          :"",
+    "jumlah_porsi"          :1,
+    "kandungan_nutrisi"     :"",
+    "gambar"                :"",
+    "komposisi"             :"",
+    "kategori_kesehatan"    :"",
+    "kategori_diet"         :"",
+    "kategori_peringatan"   :"",
+    "waktu_pembuatan"       :1,
+    "cara_pembuatan"        :"",
+    "url"                   :"",
+    "uid"                   :""
+}

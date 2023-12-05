@@ -1,0 +1,12 @@
+{
+    "id"                :1,
+    "uid"               :"",
+    "label"             :"",
+    "category"          :"",
+    "categoryLabel"     :"",
+    "foodContentsLabel" :"",
+    "image"             :"",
+    "nutrients"         :"",
+    "createdAt"         :""
+}
+

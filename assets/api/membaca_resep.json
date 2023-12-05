@@ -1,0 +1,10 @@
+{
+    "recipeId"          :"",
+    "uid"               :"",
+    "label"             :"",
+    "image"             :"",
+    "url"               :"",
+    "totalServing"      :1,
+    "totalTime"         :1,
+    "calories"          :1
+}

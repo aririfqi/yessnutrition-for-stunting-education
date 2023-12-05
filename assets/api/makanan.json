@@ -1,0 +1,9 @@
+{
+    "id"                :"",
+    "nama_makanan"      :"",
+    "kategori_makanan"  :"",
+    "komposisi"         :"",
+    "gambar"            :"",
+    "kandungan_nutrisi" :"",
+    "uid"               :""
+}

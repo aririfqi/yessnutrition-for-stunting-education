@@ -1,0 +1,14 @@
+{
+    "id"                        :"",
+    "kalori_saat_ini"           :1,
+    "kebutuhan_kalori"          :1,
+    "karbohidrat_saat_ini"      :1,
+    "kebutuhan_karbohidrat"     :1,
+    "protein_saat_ini"          :1,
+    "kebutuhan_protein"         :1,
+    "lemak_saat_ini"            :1,
+    "kebutuhan_lemak"           :1,
+    "tanggal"                   :"",
+    "uid"                       :""
+}
+
