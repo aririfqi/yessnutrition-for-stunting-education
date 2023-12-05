@@ -6,7 +6,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/fajri-rasid1st/yess_nutrition)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/fajri-rasid1st/yess_nutrition?color=%23C79C0A)
 
-_**YessNutrition**_ merupakan aplikasi pemenuhan kebutuhan gizi berbasis Android yang merupakan hasil Capstone Project Akhir dari grup CPSG-61 pada kegiatan SIB Dicoding x Kampus Merdeka Batch 2.
+_**YessNutrition**_ merupakan aplikasi pemenuhan kebutuhan gizi berbasis Android yang merupakan hasil Capstone Project Akhir dari grup CPSG-61 pada kegiatan SIB Dicoding x Kampus Merdeka Batch 2. Dan dikembangkan lebih lanjut oleh Muhamad Ari Rifqi sebagai project skripsi dengan menambahkan fitur edukasi stunting.
 
 ## Fitur-fitur
 - _**NutriCheck**_: Mencari berbagai jenis makanan dan minuman, produk makanan dan minuman, hingga resep masakan disertai dengan kandungan nutrisinya.
@@ -58,8 +58,4 @@ _**YessNutrition**_ merupakan aplikasi pemenuhan kebutuhan gizi berbasis Android
 
 > [8. NutriShop](https://raw.githubusercontent.com/fajri-rasid1st/assets/main/.github/images/nutri_shop.mp4)
 
-## Download file APK
-Untuk mengetahui lebih jelas semua fitur dan kegunaan aplikasi, silahkan download file APK melalui link dibawah ini.
-
-[Download file APK YessNutrition](https://drive.google.com/drive/folders/1Nd0dSpEeQnQU8UFvw8WYGJ1FelWrJsAB?usp=sharing)
 
